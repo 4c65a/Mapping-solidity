@@ -1,2 +1,0 @@
-# Mapping-solidity
- Mapping Example
